@@ -1,0 +1,29 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MakariOS 3</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <h1 class="logo">MakariOS 3</h1>
+    <nav class="nav">
+      <a href="announcements.html" class="nav-link">Announcements</a>
+      <a href="#" class="nav-link">Features</a>
+      <a href="#" class="nav-link">Contact</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <h2>Welcome to MakariOS 3</h2>
+    <p>Your next-generation system with the best performance and design.</p>
+    <button class="cta-button">Get Started</button>
+  </main>
+
+  <footer class="footer">
+    <p>© 2024 MakariOS 3. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
